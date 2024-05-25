@@ -1,4 +1,4 @@
-package com.muniterra.mercearia.produtos;
+package com.muniterra.mercearia.produto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Positive;
